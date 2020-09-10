@@ -1,1 +1,1 @@
-An opensource test repository, edited by a user not allowed to push
+An opensource test repository
